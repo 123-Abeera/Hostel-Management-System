@@ -8,6 +8,6 @@ This Project is based on 4 functionalities
 
 2-- Registration Form
 
-3--Edit student details
+3--Edit student detail
 
 4-- Databasse view tables only admin
